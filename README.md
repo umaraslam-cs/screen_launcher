@@ -12,7 +12,7 @@ rest.
 - Optional floating, draggable bubble to open the launcher from anywhere.
 
 <img
-  src="https://raw.githubusercontent.com/umaraslam-cs/screen_launcher/main/doc/screen_launcher_preview.png"
+  src="https://raw.githubusercontent.com/umaraslam-cs/screen_launcher/main/doc/screen_launcher_banner.png"
   alt="Screen Launcher preview: a searchable, grouped list of app screens with a draggable launcher bubble"
   width="100%"
 />
@@ -25,7 +25,7 @@ Add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  screen_launcher: ^0.1.2
+  screen_launcher: ^0.1.3
 ```
 
 Then fetch packages:

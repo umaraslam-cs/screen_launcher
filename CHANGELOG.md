@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Refresh the README banner image (new asset URL so pub.dev serves the latest).
+
 ## 0.1.2
 
 - Add a README hero banner with the app screenshot in a device mockup and
