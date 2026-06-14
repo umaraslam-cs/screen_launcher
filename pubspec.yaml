@@ -1,0 +1,28 @@
+name: screen_launcher
+description: >-
+  A lightweight, router-agnostic developer/QA tool that lists every screen in
+  your app in a searchable list, with an optional draggable overlay bubble, so
+  you can launch any route on demand.
+version: 0.1.0
+repository: https://github.com/umaraslam-cs/screen_launcher
+issue_tracker: https://github.com/umaraslam-cs/screen_launcher/issues
+topics:
+  - developer-tools
+  - navigation
+  - debugging
+  - qa
+
+environment:
+  sdk: ^3.4.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
