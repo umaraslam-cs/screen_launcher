@@ -1,3 +1,8 @@
+## 0.1.2
+
+- Add a README hero banner with the app screenshot in a device mockup and
+  Flutter branding.
+
 ## 0.1.1
 
 - The draggable bubble now snaps to the nearest screen edge on release, stays

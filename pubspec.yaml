@@ -3,7 +3,7 @@ description: >-
   A lightweight, router-agnostic developer/QA tool that lists every screen in
   your app in a searchable list, with an optional draggable overlay bubble, so
   you can launch any route on demand.
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/umaraslam-cs/screen_launcher
 issue_tracker: https://github.com/umaraslam-cs/screen_launcher/issues
 topics:

@@ -25,7 +25,7 @@ Add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  screen_launcher: ^0.1.1
+  screen_launcher: ^0.1.2
 ```
 
 Then fetch packages:
