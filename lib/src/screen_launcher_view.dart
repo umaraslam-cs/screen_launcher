@@ -128,7 +128,7 @@ class ScreenLauncher extends StatefulWidget {
     bool groupByCategory = false,
     ScreenLauncherTheme? theme,
     VoidCallback? onLongPress,
-    IconData icon = Icons.rocket_rounded,
+    IconData icon = Icons.rocket_launch,
     Color backgroundColor = const Color(0xFFFF9800),
     Color foregroundColor = Colors.white,
     double size = 48,

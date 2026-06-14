@@ -8,6 +8,6 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.textContaining('Drag the floating bubble'), findsOneWidget);
-    expect(find.byIcon(Icons.rocket_rounded), findsWidgets);
+    expect(find.byIcon(Icons.rocket_launch), findsWidgets);
   });
 }

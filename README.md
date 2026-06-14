@@ -11,6 +11,14 @@ rest.
 - Works with **any** navigation: `Navigator`, `go_router`, `GetX`, `auto_route`, …
 - Optional floating, draggable bubble to open the launcher from anywhere.
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/umaraslam-cs/screen_launcher/main/doc/screen_launcher_preview.png"
+    alt="Screen Launcher preview: a searchable, grouped list of app screens with a draggable launcher bubble"
+    width="320"
+  />
+</p>
+
 ---
 
 ## Install
@@ -19,7 +27,7 @@ Add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  screen_launcher: ^0.1.0
+  screen_launcher: ^0.1.1
 ```
 
 Then fetch packages:
@@ -142,7 +150,7 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-Bubble options: `icon` (defaults to `Icons.rocket_rounded`), `backgroundColor` (defaults
+Bubble options: `icon` (defaults to `Icons.rocket_launch`), `backgroundColor` (defaults
 to `Color(0xFFFF9800)`), `foregroundColor` (defaults to `Colors.white`),
 `size`, `opacity`, `initialOffset` — plus all the launcher options below.
 

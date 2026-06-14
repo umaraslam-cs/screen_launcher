@@ -110,7 +110,7 @@ class _HomePageState extends State<HomePage> {
               ),
               const SizedBox(height: 24),
               ElevatedButton.icon(
-                icon: const Icon(Icons.rocket_rounded),
+                icon: const Icon(Icons.rocket_launch),
                 label: const Text('Open Screen Launcher'),
                 onPressed: () => ScreenLauncher.open(
                   context,

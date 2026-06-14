@@ -23,3 +23,6 @@ example/.flutter-plugins
 example/.flutter-plugins-dependencies
 example/pubspec.lock
 example/screen_launcher_example.iml
+
+# README preview image is hosted via raw GitHub URL; no need to ship it.
+doc/

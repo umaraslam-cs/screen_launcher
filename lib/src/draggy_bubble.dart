@@ -15,7 +15,7 @@ class DraggyBubble extends StatefulWidget {
     super.key,
     required this.onTap,
     this.onLongPress,
-    this.icon = Icons.rocket_rounded,
+    this.icon = Icons.rocket_launch,
     this.backgroundColor = const Color(0xFFFF9800),
     this.foregroundColor = Colors.white,
     this.size = 48,
@@ -217,7 +217,7 @@ DraggyBubbleHandle showDraggyBubble(
   BuildContext context, {
   required VoidCallback onTap,
   VoidCallback? onLongPress,
-  IconData icon = Icons.rocket_rounded,
+  IconData icon = Icons.rocket_launch,
   Color backgroundColor = const Color(0xFFFF9800),
   Color foregroundColor = Colors.white,
   double size = 48,

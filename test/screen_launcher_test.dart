@@ -120,9 +120,9 @@ void main() {
       await tester.tap(find.text('Show bubble'));
       await tester.pump();
 
-      expect(find.byIcon(Icons.rocket_rounded), findsOneWidget);
+      expect(find.byIcon(Icons.rocket_launch), findsOneWidget);
 
-      await tester.tap(find.byIcon(Icons.rocket_rounded));
+      await tester.tap(find.byIcon(Icons.rocket_launch));
       await tester.pumpAndSettle();
 
       expect(find.text('Screen Launcher'), findsOneWidget);

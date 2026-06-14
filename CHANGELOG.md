@@ -1,13 +1,17 @@
+## 0.1.1
+
+- The draggable bubble now snaps to the nearest screen edge on release, stays
+  clear of system insets, and drags more smoothly.
+- Guard against opening multiple launcher routes from repeated bubble taps.
+- Default bubble appearance is `Icons.rocket_launch` on a bright orange
+  background.
+- Add a preview image and clearer setup steps to the README.
+
 ## 0.1.0
 
 - Add a draggable bubble overlay: `DraggyBubble`, `showDraggyBubble(...)`, and
   `ScreenLauncher.showBubble(...)` for inserting a draggable launcher bubble
   into the root overlay that opens the launcher on tap.
-- The draggable bubble snaps to the nearest screen edge on release, stays clear
-  of system insets, and guards against opening multiple launcher routes from
-  repeated taps.
-- Default bubble appearance is `Icons.rocket_rounded` on a bright orange
-  background.
 
 ## 0.0.1
 
