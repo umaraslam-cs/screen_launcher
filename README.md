@@ -11,13 +11,11 @@ rest.
 - Works with **any** navigation: `Navigator`, `go_router`, `GetX`, `auto_route`, …
 - Optional floating, draggable bubble to open the launcher from anywhere.
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/umaraslam-cs/screen_launcher/main/doc/screen_launcher_preview.png"
-    alt="Screen Launcher preview: a searchable, grouped list of app screens with a draggable launcher bubble"
-    width="320"
-  />
-</p>
+<img
+  src="https://raw.githubusercontent.com/umaraslam-cs/screen_launcher/main/doc/screen_launcher_preview.png"
+  alt="Screen Launcher preview: a searchable, grouped list of app screens with a draggable launcher bubble"
+  width="100%"
+/>
 
 ---
 
